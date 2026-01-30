@@ -47,4 +47,4 @@ Database: SQL Server, Code-First Migrations
 
 Web Development: HTML, CSS, Bootstrap, MVC pattern
 
-Other Skills: Git & GitHub version control, LINQ, problem-solving, debugging
+Other Skills: Git & GitHub version control, LINQ, problem-solving, debugging.
