@@ -12,7 +12,7 @@ MVC architecture with ASP.NET Core
 Form validation and dynamic quote calculation
 
 CRUD operations using Entity Framework Code-First
-
+https://github.com/smartgirl11-10/CarInsurance.Models.git
 Bootstrap for responsive UI
 
 2. Student Management System (Code-First)
