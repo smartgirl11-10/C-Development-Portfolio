@@ -26,6 +26,7 @@ Database creation from C# classes
 Add, update, and list student information
 
 LINQ queries for data retrieval
+https://github.com/smartgirl11-10/-Code-First.git
 
 3. Blackjack Game (LINQ Practice)
 
