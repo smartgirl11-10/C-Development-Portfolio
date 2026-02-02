@@ -31,6 +31,7 @@ https://github.com/smartgirl11-10/-Code-First.git
 3. Blackjack Game (LINQ Practice)
 
 Description: Console-based blackjack game using LINQ for score calculation and game logic.
+https://github.com/smartgirl11-10/C-Development-Portfolio.git
 
 Key Features:
 
